@@ -31,7 +31,7 @@ This repo provides code and notebooks to **generate, optimize, and evaluate prin
 ## 📂 Contents
 
 - `notebooks/PersonDetectionAttack.ipynb` — Main adversarial patch training notebook (Colab-ready).  
-- `demo/lgs_live_demo.py` — Live YOLO detection + defense demo (webcam/video).  
+- `demo/live_patch_attack.py` — Live YOLO detection + defense demo (webcam).  
 - `requirements.txt` — Python dependencies.  
 
 ---
