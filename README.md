@@ -15,7 +15,6 @@ Here are example frames from the person suppression patch experiment:
   <img src="images/demo2.png" alt="Normal detection" width="600"/>
 </p>
 
-
 ---
 
 ## ✨ Features
