@@ -3,6 +3,19 @@
 Adversarial patch training for suppressing YOLO person detections.  
 This repo provides code and notebooks to **generate, optimize, and evaluate printable adversarial patches** that reduce YOLO’s ability to detect people, along with a **live demo environment** to test defenses in real time.
 
+## Demo
+
+Here are example frames from the person suppression patch experiment:
+
+<p align="center">
+  <img src="images/demo1.png" alt="Suppression active" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo2.png" alt="Normal detection" width="600"/>
+</p>
+
+
 ---
 
 ## ✨ Features
