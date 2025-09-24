@@ -8,11 +8,11 @@ This repo provides code and notebooks to **generate, optimize, and evaluate prin
 Here are example frames from the person suppression patch experiment:
 
 <p align="center">
-  <img src="images/demo1.png" alt="Suppression active" width="600"/>
+  <img src="images/demo2.png" alt="Normal detection" width="600"/>
 </p>
 
 <p align="center">
-  <img src="images/demo2.png" alt="Normal detection" width="600"/>
+  <img src="images/demo1.png" alt="Suppression active" width="600"/>
 </p>
 
 ---
